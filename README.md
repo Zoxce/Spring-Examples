@@ -1,1 +1,1 @@
-# SpringBoot CRUD example
+# SpringBoot CRUD practice
